@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_str">Hello World 2025!</string>
+    <string name="enjoy_str">Enjoy your day !</string>
+    <string name="button_str">Change the text</string>
+    <string name="button_lang">Change the language</string>
+</resources>

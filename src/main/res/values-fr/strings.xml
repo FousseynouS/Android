@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_str">Bonjour le Monde 2025 !</string>
+    <string name="enjoy_str">Profitez de votre jorunéee</string>
+    <string name="button_str">"Changer le texte ! "</string>
+    <string name="button_lang">Changer la langue</string>
+</resources>
